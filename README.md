@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/donadickens100/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles3/_apis/build/status/donadickens100.pipelines-java?branchName=main)](https://dev.azure.com/donadickens100/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles3/_build/latest?definitionId=20&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
